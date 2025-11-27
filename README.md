@@ -18,16 +18,22 @@
 <a href="https://instagram.com/neeres__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/diogo-fonseca-sanz-264153248" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "fonsecasanzd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
 
 <details>
 <summary>:eyes: Veja os Detalhes </summary>
 
 
-![Sanz98's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanz98&theme=react&show_icons=true&hide_border=true&layout=compact)
-![Sanz98's Estatistica](https://github-readme-stats.vercel.app/api?username=Sanz98&theme=react&show_icons=true&hide_border=true&count_private=true)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanz98&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&custom_title=Estatisticas%20do%20meu%20Github" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanz98&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&custom_title=Minhas%20Stacks%20" height="151" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanz98&custom_title=Grafico%20de%20Contribui%C3%A7%C3%A3o&theme=tokyo-night" height="150" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Sanz98&theme=flat&no-frame=true&no-bg=false" height="150" alt="trophy graph"  />
 </div>
+
+###
+
+
           
           
  
