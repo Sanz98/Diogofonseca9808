@@ -13,11 +13,12 @@
  Me chamo Diogo Fonseca Sanz, tenho 20 anos, atualmente resido na região do interior de São Paulo. Tenho ensino medio integral concluido, possuo qualificação profissional em informatica básica. Atualmente estou graduando tecnico superior em Análise e Desenvolvimento de Sistmas na Faculdade de Tecnologia de Americana Ministro Ralph Biasi ( FATEC AMERICANA ) e atualmente estou realizando cursos profissionalizantes especializados em Desenvolvimento de Sistemas Back End, Hardware e Robótica Arduino na região do Interior, sou fascinado por tecnologia e tenho como plano de carreira em evoluir na área de tecnologia
 
 
+<div align="left">
+  <a href="https://instagram.com/neeres__" target="_blank"><img src="https://raw.githubusercontent.com/Sanz98/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="instagram logo"  />
+  <a href = "fonsecasanzd@gmail.com"><img src="https://raw.githubusercontent.com/Sanz98/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/diogo-fonseca-sanz-264153248" target="_blank"><img src="https://raw.githubusercontent.com/Sanz98/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
+</div>
 
-<div>
-<a href="https://instagram.com/neeres__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/diogo-fonseca-sanz-264153248" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "fonsecasanzd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 <details>
@@ -69,12 +70,6 @@
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/Sanz98/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/Sanz98/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/Sanz98/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/Sanz98/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="35" alt="whatsapp logo"  />
-</div>
 
 ###
 
