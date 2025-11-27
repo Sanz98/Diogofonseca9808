@@ -1,16 +1,30 @@
-## Hi there 👋
+# ⚡ Diogo Fonseca
 
-<!--
-**Diogofonseca9808/Diogofonseca9808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**` Desenvolvedor Back End | Estágio `**
 
-Here are some ideas to get you started:
+Me chamo Diogo Fonseca Sanz, tenho 20 anos, atualmente resido na região do interior de São Paulo.
+Tenho ensino medio integral concluido, possuo qualificação profissional em informatica básica.
+Atualmente estou graduando tecnico superior em Análise e Desenvolvimento de Sistmas na Faculdade
+de Tecnologia de Americana Ministro Ralph Biasi ( FATEC AMERICANA ) e atualmente estou realizando cursos
+profissionalizantes especializados em Desenvolvimento de Sistemas Back End, Hardware e Robótica Arduino
+na região do Interior, sou fascinado por tecnologia e tenho como plano de carreira em evoluir na área
+de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+<a href="https://instagram.com/neeres__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/diogo-fonseca-sanz-264153248" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "fonsecasanzd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+
+<details>
+<summary>:eyes: Veja os Detalhes </summary>
+
+<div>
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Sanz98\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/Sanz98/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanz98&layout=pie)](https://github.com/Sanz98/github-readme-stats)
+
+</div>
+
