@@ -27,7 +27,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanz98&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&custom_title=Estatisticas%20do%20meu%20Github" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanz98&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&custom_title=Minhas%20Stacks%20" height="151" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanz98&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&custom_title=Minhas%20Stacks%20" height="151" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanz98&custom_title=Grafico%20de%20Contribui%C3%A7%C3%A3o&theme=tokyo-night" height="150" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Sanz98&theme=flat&no-frame=true&no-bg=false" height="150" alt="trophy graph"  />
 </div>
